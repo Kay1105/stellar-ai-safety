@@ -1,0 +1,10 @@
+{
+  "robot_id": "ROBOT-001",
+  "timestamp": "2026-05-07T21:19:06.600058",
+  "joint_angle": -131.61,
+  "torque": 4.26,
+  "temperature": 29.47,
+  "position_x": -27.26,
+  "position_y": 488.64,
+  "position_z": 203.12
+}

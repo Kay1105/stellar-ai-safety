@@ -1,0 +1,1969 @@
+[
+  {
+    "metadata_id": "META-20260506233730614014",
+    "timestamp": "2026-05-06T23:37:30.614046",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233736659093",
+    "timestamp": "2026-05-06T23:37:36.659125",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233741779649",
+    "timestamp": "2026-05-06T23:37:41.779687",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233746594960",
+    "timestamp": "2026-05-06T23:37:46.595004",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233751711060",
+    "timestamp": "2026-05-06T23:37:51.711091",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233756739631",
+    "timestamp": "2026-05-06T23:37:56.739667",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233802753646",
+    "timestamp": "2026-05-06T23:38:02.753688",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233806764591",
+    "timestamp": "2026-05-06T23:38:06.764640",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233811582570",
+    "timestamp": "2026-05-06T23:38:11.582619",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233816700871",
+    "timestamp": "2026-05-06T23:38:16.700914",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233821714987",
+    "timestamp": "2026-05-06T23:38:21.715032",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233826732647",
+    "timestamp": "2026-05-06T23:38:26.732701",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233832756517",
+    "timestamp": "2026-05-06T23:38:32.756545",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233836665340",
+    "timestamp": "2026-05-06T23:38:36.665384",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233841854512",
+    "timestamp": "2026-05-06T23:38:41.854557",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233846657882",
+    "timestamp": "2026-05-06T23:38:46.657933",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233851820959",
+    "timestamp": "2026-05-06T23:38:51.820998",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233856634881",
+    "timestamp": "2026-05-06T23:38:56.634928",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233902657874",
+    "timestamp": "2026-05-06T23:39:02.657903",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506233906778276",
+    "timestamp": "2026-05-06T23:39:06.778317",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {}
+  },
+  {
+    "metadata_id": "META-20260506234241172302",
+    "timestamp": "2026-05-06T23:42:41.172342",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -153.78,
+        "after_value": 102.14
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:42:41.170876",
+      "joint_angle": 102.14,
+      "torque": 31.44,
+      "temperature": 16.74,
+      "position_x": -423.41,
+      "position_y": -474.68,
+      "position_z": 436.78
+    }
+  },
+  {
+    "metadata_id": "META-20260506234246729894",
+    "timestamp": "2026-05-06T23:42:46.729939",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 10.91,
+        "after_value": 31.44
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:42:41.170876",
+      "joint_angle": 102.14,
+      "torque": 31.44,
+      "temperature": 16.74,
+      "position_x": -423.41,
+      "position_y": -474.68,
+      "position_z": 436.78
+    }
+  },
+  {
+    "metadata_id": "META-20260506234251745747",
+    "timestamp": "2026-05-06T23:42:51.745782",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 4.55,
+        "after_value": 16.74
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:42:41.170876",
+      "joint_angle": 102.14,
+      "torque": 31.44,
+      "temperature": 16.74,
+      "position_x": -423.41,
+      "position_y": -474.68,
+      "position_z": 436.78
+    }
+  },
+  {
+    "metadata_id": "META-20260506234256764928",
+    "timestamp": "2026-05-06T23:42:56.764976",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -328.2,
+        "after_value": -423.41
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:42:41.170876",
+      "joint_angle": 102.14,
+      "torque": 31.44,
+      "temperature": 16.74,
+      "position_x": -423.41,
+      "position_y": -474.68,
+      "position_z": 436.78
+    }
+  },
+  {
+    "metadata_id": "META-20260506234301782577",
+    "timestamp": "2026-05-06T23:43:01.782619",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_y",
+        "before_value": -281.59,
+        "after_value": -474.68
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:42:41.170876",
+      "joint_angle": 102.14,
+      "torque": 31.44,
+      "temperature": 16.74,
+      "position_x": -423.41,
+      "position_y": -474.68,
+      "position_z": 436.78
+    }
+  },
+  {
+    "metadata_id": "META-20260506234306555301",
+    "timestamp": "2026-05-06T23:43:06.555346",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_z",
+        "before_value": 772.58,
+        "after_value": 436.78
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:42:41.170876",
+      "joint_angle": 102.14,
+      "torque": 31.44,
+      "temperature": 16.74,
+      "position_x": -423.41,
+      "position_y": -474.68,
+      "position_z": 436.78
+    }
+  },
+  {
+    "metadata_id": "META-20260506234312614257",
+    "timestamp": "2026-05-06T23:43:12.614280",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": 102.14,
+        "after_value": 207.22
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:43:12.612793",
+      "joint_angle": 207.22,
+      "torque": 58.34,
+      "temperature": 88.18,
+      "position_x": 562.25,
+      "position_y": 588.53,
+      "position_z": 1110.94
+    }
+  },
+  {
+    "metadata_id": "META-20260506234316732475",
+    "timestamp": "2026-05-06T23:43:16.732515",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 31.44,
+        "after_value": 58.34
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:43:12.612793",
+      "joint_angle": 207.22,
+      "torque": 58.34,
+      "temperature": 88.18,
+      "position_x": 562.25,
+      "position_y": 588.53,
+      "position_z": 1110.94
+    }
+  },
+  {
+    "metadata_id": "META-20260506234510739621",
+    "timestamp": "2026-05-06T23:45:10.739654",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -37.87,
+        "after_value": 152.08
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:10.738181",
+      "joint_angle": 152.08,
+      "torque": 43.48,
+      "temperature": 42.49,
+      "position_x": -207.42,
+      "position_y": 357.59,
+      "position_z": 852.27
+    }
+  },
+  {
+    "metadata_id": "META-20260506234516746253",
+    "timestamp": "2026-05-06T23:45:16.746300",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 1.4,
+        "after_value": 43.48
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:10.738181",
+      "joint_angle": 152.08,
+      "torque": 43.48,
+      "temperature": 42.49,
+      "position_x": -207.42,
+      "position_y": 357.59,
+      "position_z": 852.27
+    }
+  },
+  {
+    "metadata_id": "META-20260506234522684995",
+    "timestamp": "2026-05-06T23:45:22.685037",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 44.81,
+        "after_value": 42.49
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:10.738181",
+      "joint_angle": 152.08,
+      "torque": 43.48,
+      "temperature": 42.49,
+      "position_x": -207.42,
+      "position_y": 357.59,
+      "position_z": 852.27
+    }
+  },
+  {
+    "metadata_id": "META-20260506234528606019",
+    "timestamp": "2026-05-06T23:45:28.606049",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": 152.08,
+        "after_value": -159.53
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:28.604585",
+      "joint_angle": -159.53,
+      "torque": 18.37,
+      "temperature": 5.75,
+      "position_x": 148.98,
+      "position_y": 242.04,
+      "position_z": 432.24
+    }
+  },
+  {
+    "metadata_id": "META-20260506234531698731",
+    "timestamp": "2026-05-06T23:45:31.698778",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 43.48,
+        "after_value": 18.37
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:28.604585",
+      "joint_angle": -159.53,
+      "torque": 18.37,
+      "temperature": 5.75,
+      "position_x": 148.98,
+      "position_y": 242.04,
+      "position_z": 432.24
+    }
+  },
+  {
+    "metadata_id": "META-20260506234536681643",
+    "timestamp": "2026-05-06T23:45:36.681672",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 42.49,
+        "after_value": 5.75
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:28.604585",
+      "joint_angle": -159.53,
+      "torque": 18.37,
+      "temperature": 5.75,
+      "position_x": 148.98,
+      "position_y": 242.04,
+      "position_z": 432.24
+    }
+  },
+  {
+    "metadata_id": "META-20260506234543658857",
+    "timestamp": "2026-05-06T23:45:43.658894",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -159.53,
+        "after_value": -126.01
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:43.657264",
+      "joint_angle": -126.01,
+      "torque": 30.72,
+      "temperature": 15.91,
+      "position_x": 204.23,
+      "position_y": -381.52,
+      "position_z": 777.01
+    }
+  },
+  {
+    "metadata_id": "META-20260506234546750108",
+    "timestamp": "2026-05-06T23:45:46.750154",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 18.37,
+        "after_value": 30.72
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:43.657264",
+      "joint_angle": -126.01,
+      "torque": 30.72,
+      "temperature": 15.91,
+      "position_x": 204.23,
+      "position_y": -381.52,
+      "position_z": 777.01
+    }
+  },
+  {
+    "metadata_id": "META-20260506234552688751",
+    "timestamp": "2026-05-06T23:45:52.688797",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 5.75,
+        "after_value": 15.91
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:43.657264",
+      "joint_angle": -126.01,
+      "torque": 30.72,
+      "temperature": 15.91,
+      "position_x": 204.23,
+      "position_y": -381.52,
+      "position_z": 777.01
+    }
+  },
+  {
+    "metadata_id": "META-20260506234557689297",
+    "timestamp": "2026-05-06T23:45:57.689315",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -126.01,
+        "after_value": -162.13
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:57.688244",
+      "joint_angle": -162.13,
+      "torque": 10.42,
+      "temperature": 42.59,
+      "position_x": 422.03,
+      "position_y": -360.13,
+      "position_z": 660.58
+    }
+  },
+  {
+    "metadata_id": "META-20260506234601756119",
+    "timestamp": "2026-05-06T23:46:01.756155",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 30.72,
+        "after_value": 10.42
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:57.688244",
+      "joint_angle": -162.13,
+      "torque": 10.42,
+      "temperature": 42.59,
+      "position_x": 422.03,
+      "position_y": -360.13,
+      "position_z": 660.58
+    }
+  },
+  {
+    "metadata_id": "META-20260506234607637122",
+    "timestamp": "2026-05-06T23:46:07.637170",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 15.91,
+        "after_value": 42.59
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:45:57.688244",
+      "joint_angle": -162.13,
+      "torque": 10.42,
+      "temperature": 42.59,
+      "position_x": 422.03,
+      "position_y": -360.13,
+      "position_z": 660.58
+    }
+  },
+  {
+    "metadata_id": "META-20260506234613771662",
+    "timestamp": "2026-05-06T23:46:13.771704",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -162.13,
+        "after_value": 45.9
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:46:13.770064",
+      "joint_angle": 45.9,
+      "torque": 19.05,
+      "temperature": 28.13,
+      "position_x": -166.92,
+      "position_y": 372.08,
+      "position_z": 816.43
+    }
+  },
+  {
+    "metadata_id": "META-20260506234617673736",
+    "timestamp": "2026-05-06T23:46:17.673782",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 10.42,
+        "after_value": 19.05
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:46:13.770064",
+      "joint_angle": 45.9,
+      "torque": 19.05,
+      "temperature": 28.13,
+      "position_x": -166.92,
+      "position_y": 372.08,
+      "position_z": 816.43
+    }
+  },
+  {
+    "metadata_id": "META-20260506234622790665",
+    "timestamp": "2026-05-06T23:46:22.790714",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 42.59,
+        "after_value": 28.13
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:46:13.770064",
+      "joint_angle": 45.9,
+      "torque": 19.05,
+      "temperature": 28.13,
+      "position_x": -166.92,
+      "position_y": 372.08,
+      "position_z": 816.43
+    }
+  },
+  {
+    "metadata_id": "META-20260506234628711351",
+    "timestamp": "2026-05-06T23:46:28.711370",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": 45.9,
+        "after_value": 56.57
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:46:28.710747",
+      "joint_angle": 56.57,
+      "torque": 35.47,
+      "temperature": 4.47,
+      "position_x": 141.76,
+      "position_y": -242.59,
+      "position_z": 319.91
+    }
+  },
+  {
+    "metadata_id": "META-20260506234632721133",
+    "timestamp": "2026-05-06T23:46:32.721182",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 19.05,
+        "after_value": 35.47
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:46:28.710747",
+      "joint_angle": 56.57,
+      "torque": 35.47,
+      "temperature": 4.47,
+      "position_x": 141.76,
+      "position_y": -242.59,
+      "position_z": 319.91
+    }
+  },
+  {
+    "metadata_id": "META-20260506234637576043",
+    "timestamp": "2026-05-06T23:46:37.576091",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 28.13,
+        "after_value": 4.47
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:46:28.710747",
+      "joint_angle": 56.57,
+      "torque": 35.47,
+      "temperature": 4.47,
+      "position_x": 141.76,
+      "position_y": -242.59,
+      "position_z": 319.91
+    }
+  },
+  {
+    "metadata_id": "META-20260506234643689474",
+    "timestamp": "2026-05-06T23:46:43.689506",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": 56.57,
+        "after_value": -101.72
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:46:43.688346",
+      "joint_angle": -101.72,
+      "torque": 6.92,
+      "temperature": 20.05,
+      "position_x": -198.06,
+      "position_y": 363.91,
+      "position_z": 341.54
+    }
+  },
+  {
+    "metadata_id": "META-20260506234729198876",
+    "timestamp": "2026-05-06T23:47:29.198903",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -188.7,
+        "after_value": -175.38
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:47:29.197858",
+      "joint_angle": -101.86,
+      "torque": 6.45,
+      "temperature": 20.84,
+      "position_x": -175.38,
+      "position_y": 451.76,
+      "position_z": 359.91
+    }
+  },
+  {
+    "metadata_id": "META-20260506234732631743",
+    "timestamp": "2026-05-06T23:47:32.631777",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_y",
+        "before_value": 367.67,
+        "after_value": 451.76
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:47:29.197858",
+      "joint_angle": -101.86,
+      "torque": 6.45,
+      "temperature": 20.84,
+      "position_x": -175.38,
+      "position_y": 451.76,
+      "position_z": 359.91
+    }
+  },
+  {
+    "metadata_id": "META-20260506234738752913",
+    "timestamp": "2026-05-06T23:47:38.752949",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 6.45,
+        "after_value": 7.16
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:47:38.751570",
+      "joint_angle": -102.66,
+      "torque": 7.16,
+      "temperature": 19.47,
+      "position_x": -182.14,
+      "position_y": 441.27,
+      "position_z": 367.98
+    }
+  },
+  {
+    "metadata_id": "META-20260506234742764278",
+    "timestamp": "2026-05-06T23:47:42.764324",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 20.84,
+        "after_value": 19.47
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:47:38.751570",
+      "joint_angle": -102.66,
+      "torque": 7.16,
+      "temperature": 19.47,
+      "position_x": -182.14,
+      "position_y": 441.27,
+      "position_z": 367.98
+    }
+  },
+  {
+    "metadata_id": "META-20260506234748788636",
+    "timestamp": "2026-05-06T23:47:48.788669",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -102.66,
+        "after_value": -108.0
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:47:48.787386",
+      "joint_angle": -108.0,
+      "torque": 8.16,
+      "temperature": 20.58,
+      "position_x": -184.76,
+      "position_y": 458.63,
+      "position_z": 364.24
+    }
+  },
+  {
+    "metadata_id": "META-20260506234752594548",
+    "timestamp": "2026-05-06T23:47:52.594596",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 7.16,
+        "after_value": 8.16
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:47:48.787386",
+      "joint_angle": -108.0,
+      "torque": 8.16,
+      "temperature": 20.58,
+      "position_x": -184.76,
+      "position_y": 458.63,
+      "position_z": 364.24
+    }
+  },
+  {
+    "metadata_id": "META-20260506234757621002",
+    "timestamp": "2026-05-06T23:47:57.621048",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 19.47,
+        "after_value": 20.58
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:47:48.787386",
+      "joint_angle": -108.0,
+      "torque": 8.16,
+      "temperature": 20.58,
+      "position_x": -184.76,
+      "position_y": 458.63,
+      "position_z": 364.24
+    }
+  },
+  {
+    "metadata_id": "META-20260506234803636017",
+    "timestamp": "2026-05-06T23:48:03.636052",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -108.0,
+        "after_value": -113.62
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:03.634624",
+      "joint_angle": -113.62,
+      "torque": 7.85,
+      "temperature": 19.29,
+      "position_x": -195.06,
+      "position_y": 474.81,
+      "position_z": 346.19
+    }
+  },
+  {
+    "metadata_id": "META-20260506234807648524",
+    "timestamp": "2026-05-06T23:48:07.648566",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 20.58,
+        "after_value": 19.29
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:03.634624",
+      "joint_angle": -113.62,
+      "torque": 7.85,
+      "temperature": 19.29,
+      "position_x": -195.06,
+      "position_y": 474.81,
+      "position_z": 346.19
+    }
+  },
+  {
+    "metadata_id": "META-20260506234812563397",
+    "timestamp": "2026-05-06T23:48:12.563439",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -184.76,
+        "after_value": -195.06
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:03.634624",
+      "joint_angle": -113.62,
+      "torque": 7.85,
+      "temperature": 19.29,
+      "position_x": -195.06,
+      "position_y": 474.81,
+      "position_z": 346.19
+    }
+  },
+  {
+    "metadata_id": "META-20260506234818685267",
+    "timestamp": "2026-05-06T23:48:18.685303",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 7.85,
+        "after_value": 8.41
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:18.683944",
+      "joint_angle": -117.41,
+      "torque": 8.41,
+      "temperature": 19.68,
+      "position_x": -199.97,
+      "position_y": 491.15,
+      "position_z": 332.34
+    }
+  },
+  {
+    "metadata_id": "META-20260506234823598953",
+    "timestamp": "2026-05-06T23:48:23.598980",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 8.41,
+        "after_value": 13.02
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:23.598095",
+      "joint_angle": -122.48,
+      "torque": 13.02,
+      "temperature": 20.99,
+      "position_x": -185.66,
+      "position_y": 475.92,
+      "position_z": 317.82
+    }
+  },
+  {
+    "metadata_id": "META-20260506234827559270",
+    "timestamp": "2026-05-06T23:48:27.559307",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "temperature",
+        "before_value": 19.68,
+        "after_value": 20.99
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:23.598095",
+      "joint_angle": -122.48,
+      "torque": 13.02,
+      "temperature": 20.99,
+      "position_x": -185.66,
+      "position_y": 475.92,
+      "position_z": 317.82
+    }
+  },
+  {
+    "metadata_id": "META-20260506234832744486",
+    "timestamp": "2026-05-06T23:48:32.744524",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -199.97,
+        "after_value": -185.66
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:23.598095",
+      "joint_angle": -122.48,
+      "torque": 13.02,
+      "temperature": 20.99,
+      "position_x": -185.66,
+      "position_y": 475.92,
+      "position_z": 317.82
+    }
+  },
+  {
+    "metadata_id": "META-20260506234838758250",
+    "timestamp": "2026-05-06T23:48:38.758279",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -185.66,
+        "after_value": -67.49
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:38.756967",
+      "joint_angle": -125.76,
+      "torque": 12.53,
+      "temperature": 20.55,
+      "position_x": -67.49,
+      "position_y": 470.9,
+      "position_z": 311.47
+    }
+  },
+  {
+    "metadata_id": "META-20260506234843721506",
+    "timestamp": "2026-05-06T23:48:43.721546",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 12.53,
+        "after_value": 11.87
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:43.720172",
+      "joint_angle": -122.12,
+      "torque": 11.87,
+      "temperature": 21.24,
+      "position_x": -76.88,
+      "position_y": 490.61,
+      "position_z": 323.67
+    }
+  },
+  {
+    "metadata_id": "META-20260506234847789616",
+    "timestamp": "2026-05-06T23:48:47.789656",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -67.49,
+        "after_value": -76.88
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:43.720172",
+      "joint_angle": -122.12,
+      "torque": 11.87,
+      "temperature": 21.24,
+      "position_x": -76.88,
+      "position_y": 490.61,
+      "position_z": 323.67
+    }
+  },
+  {
+    "metadata_id": "META-20260506234853710258",
+    "timestamp": "2026-05-06T23:48:53.710277",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -122.12,
+        "after_value": -78.76
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:53.709670",
+      "joint_angle": -78.76,
+      "torque": 11.82,
+      "temperature": 20.39,
+      "position_x": -58.9,
+      "position_y": 500.0,
+      "position_z": 194.83
+    }
+  },
+  {
+    "metadata_id": "META-20260506234857719048",
+    "timestamp": "2026-05-06T23:48:57.719093",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -76.88,
+        "after_value": -58.9
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:53.709670",
+      "joint_angle": -78.76,
+      "torque": 11.82,
+      "temperature": 20.39,
+      "position_x": -58.9,
+      "position_y": 500.0,
+      "position_z": 194.83
+    }
+  },
+  {
+    "metadata_id": "META-20260506234902739498",
+    "timestamp": "2026-05-06T23:49:02.739538",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_z",
+        "before_value": 323.67,
+        "after_value": 194.83
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:48:53.709670",
+      "joint_angle": -78.76,
+      "torque": 11.82,
+      "temperature": 20.39,
+      "position_x": -58.9,
+      "position_y": 500.0,
+      "position_z": 194.83
+    }
+  },
+  {
+    "metadata_id": "META-20260506235011900588",
+    "timestamp": "2026-05-06T23:50:11.900651",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -75.12,
+        "after_value": -80.15
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:50:11.899436",
+      "joint_angle": -80.15,
+      "torque": 11.68,
+      "temperature": 30.97,
+      "position_x": -39.88,
+      "position_y": 466.91,
+      "position_z": 202.56
+    }
+  },
+  {
+    "metadata_id": "META-20260506235017696437",
+    "timestamp": "2026-05-06T23:50:17.696482",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 10.83,
+        "after_value": 11.68
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:50:11.899436",
+      "joint_angle": -80.15,
+      "torque": 11.68,
+      "temperature": 30.97,
+      "position_x": -39.88,
+      "position_y": 466.91,
+      "position_z": 202.56
+    }
+  },
+  {
+    "metadata_id": "META-20260506235022684365",
+    "timestamp": "2026-05-06T23:50:22.684412",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -52.8,
+        "after_value": -39.88
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:50:11.899436",
+      "joint_angle": -80.15,
+      "torque": 11.68,
+      "temperature": 30.97,
+      "position_x": -39.88,
+      "position_y": 466.91,
+      "position_z": 202.56
+    }
+  },
+  {
+    "metadata_id": "META-20260506235028633830",
+    "timestamp": "2026-05-06T23:50:28.633862",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -80.15,
+        "after_value": -76.06
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:50:28.632536",
+      "joint_angle": -76.06,
+      "torque": 11.11,
+      "temperature": 30.2,
+      "position_x": -22.75,
+      "position_y": 464.9,
+      "position_z": 197.07
+    }
+  },
+  {
+    "metadata_id": "META-20260506235032685538",
+    "timestamp": "2026-05-06T23:50:32.685584",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -39.88,
+        "after_value": -22.75
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:50:28.632536",
+      "joint_angle": -76.06,
+      "torque": 11.11,
+      "temperature": 30.2,
+      "position_x": -22.75,
+      "position_y": 464.9,
+      "position_z": 197.07
+    }
+  },
+  {
+    "metadata_id": "META-20260506235650628090",
+    "timestamp": "2026-05-06T23:56:50.628126",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 10.25,
+        "after_value": 10.86
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:56:50.626688",
+      "joint_angle": -77.84,
+      "torque": 10.86,
+      "temperature": 30.62,
+      "position_x": -24.18,
+      "position_y": 500.0,
+      "position_z": 180.03
+    }
+  },
+  {
+    "metadata_id": "META-20260506235653779732",
+    "timestamp": "2026-05-06T23:56:53.779770",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -21.27,
+        "after_value": -24.18
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:56:50.626688",
+      "joint_angle": -77.84,
+      "torque": 10.86,
+      "temperature": 30.62,
+      "position_x": -24.18,
+      "position_y": 500.0,
+      "position_z": 180.03
+    }
+  },
+  {
+    "metadata_id": "META-20260506235658592576",
+    "timestamp": "2026-05-06T23:56:58.592623",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_z",
+        "before_value": 199.9,
+        "after_value": 180.03
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:56:50.626688",
+      "joint_angle": -77.84,
+      "torque": 10.86,
+      "temperature": 30.62,
+      "position_x": -24.18,
+      "position_y": 500.0,
+      "position_z": 180.03
+    }
+  },
+  {
+    "metadata_id": "META-20260506235704719534",
+    "timestamp": "2026-05-06T23:57:04.719571",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -77.84,
+        "after_value": -82.62
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:57:04.718126",
+      "joint_angle": -82.62,
+      "torque": 9.92,
+      "temperature": 30.84,
+      "position_x": -26.62,
+      "position_y": 498.79,
+      "position_z": 167.55
+    }
+  },
+  {
+    "metadata_id": "META-20260506235708731792",
+    "timestamp": "2026-05-06T23:57:08.731839",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 10.86,
+        "after_value": 9.92
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:57:04.718126",
+      "joint_angle": -82.62,
+      "torque": 9.92,
+      "temperature": 30.84,
+      "position_x": -26.62,
+      "position_y": 498.79,
+      "position_z": 167.55
+    }
+  },
+  {
+    "metadata_id": "META-20260506235713647644",
+    "timestamp": "2026-05-06T23:57:13.647679",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -24.18,
+        "after_value": -26.62
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:57:04.718126",
+      "joint_angle": -82.62,
+      "torque": 9.92,
+      "temperature": 30.84,
+      "position_x": -26.62,
+      "position_y": 498.79,
+      "position_z": 167.55
+    }
+  },
+  {
+    "metadata_id": "META-20260506235919044920",
+    "timestamp": "2026-05-06T23:59:19.044955",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -39.43,
+        "after_value": -28.1
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:59:19.043486",
+      "joint_angle": -85.53,
+      "torque": 10.43,
+      "temperature": 30.27,
+      "position_x": -28.1,
+      "position_y": 500.0,
+      "position_z": 187.48
+    }
+  },
+  {
+    "metadata_id": "META-20260506235924701047",
+    "timestamp": "2026-05-06T23:59:24.701078",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -85.53,
+        "after_value": -79.33
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:59:24.699690",
+      "joint_angle": -79.33,
+      "torque": 10.71,
+      "temperature": 29.8,
+      "position_x": -17.3,
+      "position_y": 500.0,
+      "position_z": 204.43
+    }
+  },
+  {
+    "metadata_id": "META-20260506235928657270",
+    "timestamp": "2026-05-06T23:59:28.657315",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -28.1,
+        "after_value": -17.3
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:59:24.699690",
+      "joint_angle": -79.33,
+      "torque": 10.71,
+      "temperature": 29.8,
+      "position_x": -17.3,
+      "position_y": 500.0,
+      "position_z": 204.43
+    }
+  },
+  {
+    "metadata_id": "META-20260506235933555074",
+    "timestamp": "2026-05-06T23:59:33.555112",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_z",
+        "before_value": 187.48,
+        "after_value": 204.43
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-06T23:59:24.699690",
+      "joint_angle": -79.33,
+      "torque": 10.71,
+      "temperature": 29.8,
+      "position_x": -17.3,
+      "position_y": 500.0,
+      "position_z": 204.43
+    }
+  },
+  {
+    "metadata_id": "META-20260507211854059035",
+    "timestamp": "2026-05-07T21:18:54.059057",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 10.61,
+        "after_value": 3.94
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-07T21:18:54.058255",
+      "joint_angle": -79.4,
+      "torque": 3.94,
+      "temperature": 28.3,
+      "position_x": -14.13,
+      "position_y": 500.0,
+      "position_z": 221.71
+    }
+  },
+  {
+    "metadata_id": "META-20260507211900683708",
+    "timestamp": "2026-05-07T21:19:00.683754",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -5.26,
+        "after_value": -14.13
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-07T21:18:54.058255",
+      "joint_angle": -79.4,
+      "torque": 3.94,
+      "temperature": 28.3,
+      "position_x": -14.13,
+      "position_y": 500.0,
+      "position_z": 221.71
+    }
+  },
+  {
+    "metadata_id": "META-20260507211906601358",
+    "timestamp": "2026-05-07T21:19:06.601395",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "joint_angle",
+        "before_value": -79.4,
+        "after_value": -131.61
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-07T21:19:06.600058",
+      "joint_angle": -131.61,
+      "torque": 4.26,
+      "temperature": 29.47,
+      "position_x": -27.26,
+      "position_y": 488.64,
+      "position_z": 203.12
+    }
+  },
+  {
+    "metadata_id": "META-20260507211910717246",
+    "timestamp": "2026-05-07T21:19:10.717299",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "torque",
+        "before_value": 3.94,
+        "after_value": 4.26
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-07T21:19:06.600058",
+      "joint_angle": -131.61,
+      "torque": 4.26,
+      "temperature": 29.47,
+      "position_x": -27.26,
+      "position_y": 488.64,
+      "position_z": 203.12
+    }
+  },
+  {
+    "metadata_id": "META-20260507211915527487",
+    "timestamp": "2026-05-07T21:19:15.527537",
+    "robot_id": "ROBOT-001",
+    "operator_id": "SYSTEM-AUTO",
+    "trigger_type": "data_change",
+    "changed_fields": [
+      {
+        "field": "position_x",
+        "before_value": -14.13,
+        "after_value": -27.26
+      }
+    ],
+    "reason": "不明なトリガーによる記録",
+    "data_snapshot": {
+      "robot_id": "ROBOT-001",
+      "timestamp": "2026-05-07T21:19:06.600058",
+      "joint_angle": -131.61,
+      "torque": 4.26,
+      "temperature": 29.47,
+      "position_x": -27.26,
+      "position_y": 488.64,
+      "position_z": 203.12
+    }
+  },
+  {
+    "metadata_id": "META-20260509223216249081",
+    "timestamp": "2026-05-09T22:32:16.249152",
+    "robot_id": "ROBOT-DEMO-001",
+    "operator_id": "AI-SYSTEM",
+    "trigger_type": "obstacle_avoidance",
+    "changed_fields": [
+      {
+        "field": "trajectory",
+        "before_value": "theta1=60, theta2=70",
+        "after_value": "theta1=50, theta2=5"
+      }
+    ],
+    "reason": "障害物検知によりAIが軌跡を自動変更",
+    "data_snapshot": {
+      "joint_angle_1": 50,
+      "joint_angle_2": 5,
+      "obstacle_detected": true
+    },
+    "transaction_id": "0c196d2d277bde75c0161b10485d8c2c1963252d64a6eb71fa157b9340606005",
+    "hash": "9b7c595ba71ed5b55492c1fdbaa33785541709c4233d57f6736d1712c7f82824",
+    "stellar_url": "https://stellar.expert/explorer/testnet/tx/0c196d2d277bde75c0161b10485d8c2c1963252d64a6eb71fa157b9340606005"
+  },
+  {
+    "metadata_id": "META-20260509223228248947",
+    "timestamp": "2026-05-09T22:32:28.249011",
+    "robot_id": "ROBOT-DEMO-001",
+    "operator_id": "AI-SYSTEM",
+    "trigger_type": "obstacle_avoidance",
+    "changed_fields": [
+      {
+        "field": "trajectory",
+        "before_value": "theta1=60, theta2=70",
+        "after_value": "theta1=50, theta2=5"
+      }
+    ],
+    "reason": "障害物検知によりAIが軌跡を自動変更",
+    "data_snapshot": {
+      "joint_angle_1": 50,
+      "joint_angle_2": 5,
+      "obstacle_detected": true
+    },
+    "transaction_id": "dbe2f2fcc894e15fd4e293051d8b2ce3eebe6aa77b1929e4a0b53f6e903ae4a1",
+    "hash": "8cd895f8e8cbc653e641cfe688ffafb97936a0b05d798c8acaf3bfdffe036a67",
+    "stellar_url": "https://stellar.expert/explorer/testnet/tx/dbe2f2fcc894e15fd4e293051d8b2ce3eebe6aa77b1929e4a0b53f6e903ae4a1"
+  },
+  {
+    "metadata_id": "META-20260509223240249015",
+    "timestamp": "2026-05-09T22:32:40.249078",
+    "robot_id": "ROBOT-DEMO-001",
+    "operator_id": "AI-SYSTEM",
+    "trigger_type": "obstacle_avoidance",
+    "changed_fields": [
+      {
+        "field": "trajectory",
+        "before_value": "theta1=60, theta2=70",
+        "after_value": "theta1=50, theta2=5"
+      }
+    ],
+    "reason": "障害物検知によりAIが軌跡を自動変更",
+    "data_snapshot": {
+      "joint_angle_1": 50,
+      "joint_angle_2": 5,
+      "obstacle_detected": true
+    },
+    "transaction_id": "3d393130e4d70f93cc4623c22c4e4a008a5294e8fc9d04fee92ed21a1b613fe8",
+    "hash": "e46e55cabbafdb545fb636551d8c8110e1253cf60a41e0cc2be0f487eb63d530",
+    "stellar_url": "https://stellar.expert/explorer/testnet/tx/3d393130e4d70f93cc4623c22c4e4a008a5294e8fc9d04fee92ed21a1b613fe8"
+  },
+  {
+    "metadata_id": "META-20260509223252248997",
+    "timestamp": "2026-05-09T22:32:52.249059",
+    "robot_id": "ROBOT-DEMO-001",
+    "operator_id": "AI-SYSTEM",
+    "trigger_type": "obstacle_avoidance",
+    "changed_fields": [
+      {
+        "field": "trajectory",
+        "before_value": "theta1=60, theta2=70",
+        "after_value": "theta1=50, theta2=5"
+      }
+    ],
+    "reason": "障害物検知によりAIが軌跡を自動変更",
+    "data_snapshot": {
+      "joint_angle_1": 50,
+      "joint_angle_2": 5,
+      "obstacle_detected": true
+    },
+    "transaction_id": "7ea37ef29d82e39f614b7bc0e10abe64ce0dbf9994c36767d220e8af45b61a64",
+    "hash": "d729b1d583e0a8518855ccfe76d8cedcd0728958a0375ec72ae021fd4cf3a5b0",
+    "stellar_url": "https://stellar.expert/explorer/testnet/tx/7ea37ef29d82e39f614b7bc0e10abe64ce0dbf9994c36767d220e8af45b61a64"
+  }
+]
